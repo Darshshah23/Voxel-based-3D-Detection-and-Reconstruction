@@ -29,5 +29,6 @@ live Object detection:
  https://colab.research.google.com/drive/1Soz2y6siPBn9r5JdQGLztQahDteq7EPS?usp=sharing
  2. follow the step by step instruction provided inside.
  3. make sure to upload the image from the folder called "human" from the above(10 images are there).
+    there is folder called demo consist of all the models created from the images just to check after.
  4. use blander tool to view the 3D model of the reconstructed image.
  the link to downlaod latest blender software is: https://www.blender.org/download/
