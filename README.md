@@ -24,8 +24,6 @@ live Object detection:
 
 1)Open yolo.py and run the code 
  ![YO![result1](https://user-images.githubusercontent.com/87551646/166852890-75358cc8-d258-4dd9-b5ba-d4c0d352ba40.png)
-LOharshou![result2](https://user-images.githubusercontent.com/87551646/166852895-b66d4424-cf82-412a-a326-024d14868c78.png)
-tput](https://user-images.githubusercontent.com/87551646/166852866-c1c98255-0192-4ad9-a867-f88aa54396b2.png)
 
  For 3D reconstruction:
  1. open the google codab lin provided following or open the 3D Reconstruction.ipynb file provided in the folder. 
