@@ -18,4 +18,9 @@ Now for 3d bouding box:
 
 1)Run the cell for loading the image
 2)Now run the cell to create Bounding Box around the object
+
+
+live Object detection:
+
+1)Open yolo.py and run the code 
  
