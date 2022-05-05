@@ -23,10 +23,10 @@ Now for 3d bouding box:
 live Object detection:
 
 1)Open yolo.py and run the code 
-![YOLOharshoutput](https://user-images.githubusercontent.com/87551646/166853010-47f0916f-352a-4895-8e70-f092c8d6a52a.png)
+
 ![result1](https://user-images.githubusercontent.com/87551646/166853019-a88bf2b8-927f-4923-b572-c679863f085d.png)
 ![result2](https://user-images.githubusercontent.com/87551646/166853022-2a42241c-fbea-4f09-8400-efbfa6fcec74.png)
-
+![YOLOharshoutput](https://user-images.githubusercontent.com/87551646/166853010-47f0916f-352a-4895-8e70-f092c8d6a52a.png)
 
 
  For 3D reconstruction:
