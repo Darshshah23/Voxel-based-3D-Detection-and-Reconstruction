@@ -29,6 +29,10 @@ live Object detection:
 ![YOLOharshoutput](https://user-images.githubusercontent.com/87551646/166853010-47f0916f-352a-4895-8e70-f092c8d6a52a.png)
 
 
+https://user-images.githubusercontent.com/56234621/166853411-47e190e0-09f6-4f1b-b48f-092e725bd74e.mp4
+
+
+
  For 3D reconstruction:
  1. open the google codab lin provided following or open the 3D Reconstruction.ipynb file provided in the folder. 
  https://colab.research.google.com/drive/1Soz2y6siPBn9r5JdQGLztQahDteq7EPS?usp=sharing
